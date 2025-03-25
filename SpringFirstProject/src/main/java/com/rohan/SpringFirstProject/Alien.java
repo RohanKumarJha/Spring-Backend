@@ -1,6 +1,7 @@
 package com.rohan.SpringFirstProject;
 
 public class Alien {
+
 	private int age;
 	private Laptop laptop;
 	
